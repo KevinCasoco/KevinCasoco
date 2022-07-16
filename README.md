@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Javascript and PHP.
 - 💞️ I’m looking to collaborate on my future projects with a knowledge in Front End Development.
-- 📫 You can contact me via email: andreikevincasoco@gmail.com
+- 📫 You can contact me via email: kevs404official@gmail.com
 
 <!---
 KevinCasoco/KevinCasoco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
