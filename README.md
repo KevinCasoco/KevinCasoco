@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KevinCasoco an aspiring Back End Developer and Database Analyst.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Javascript and PHP.
+- 🌱 I’m currently learning Javascript and PHP including Laravel and NodeJs.
 - 💞️ I’m looking to collaborate on my future projects with a knowledge in Front End Development.
 - 📫 You can contact me via email: kevs404official@gmail.com
 
